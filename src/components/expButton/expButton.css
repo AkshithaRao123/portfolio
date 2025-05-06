@@ -1,0 +1,27 @@
+.pf__experience {
+    justify-content: center;
+    flex-flow: row wrap;
+    margin: 5%;
+    border-radius: 20px;
+    padding: 5%;
+}
+
+#exp {
+    font-family: var(--font-family);
+    line-height: 30px;
+    margin-top: 30px;
+    color: var(--color-subtext);
+    font-weight: 600;
+}
+
+.pf__experience button {
+    border: thin solid aquamarine;
+    background-color: transparent;
+    color: var(--color-subtext);
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.pf__techstack {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin: 5%;
+    border-radius: 20px;
+}
+
+.pf__techstack img {
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.pf__techstack > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    border-color: darkblue;
+    border-radius: 10px;
+}
+
+.pf__techstack > div:hover {
+    opacity: 0.5;
+}
+
+#caption {
+    font-family: var(--font-family);
+    color: aquamarine;
+    width:100%;
+    align-content: center;
+}
+
