@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.717c46aa.css",
+    "main.js": "/portfolio/static/js/main.24915236.js",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.7c266de6521d2021e669.png",
+    "static/media/node.png": "/portfolio/static/media/node.11d27271a48f18a1a5a2.png",
+    "static/media/python.png": "/portfolio/static/media/python.521b5358db06f7d70bba.png",
+    "static/media/self.jpg": "/portfolio/static/media/self.5c80529f20ccd067cf7c.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.3fb0d2e3827f99c3b50d.png",
+    "static/media/sklearn.png": "/portfolio/static/media/sklearn.4747861d029d036c65c8.png",
+    "static/media/css.png": "/portfolio/static/media/css.d005a69a134bf78fdc29.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.820c84cfe51d6659df8a.png",
+    "static/media/email.png": "/portfolio/static/media/email.1c1b81f9a4eb9a6c4105.png",
+    "static/media/html.png": "/portfolio/static/media/html.b5c4803cb01260c8d2b5.png",
+    "static/media/github.png": "/portfolio/static/media/github.7063eb6970133ac1164a.png",
+    "static/media/mongodb.png": "/portfolio/static/media/mongodb.7fa5a27fdebca7f75f3a.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/tensorflow.png": "/portfolio/static/media/tensorflow.0d3f11391129fec4ed40.png",
+    "index.html": "/portfolio/index.html",
+    "main.717c46aa.css.map": "/portfolio/static/css/main.717c46aa.css.map",
+    "main.24915236.js.map": "/portfolio/static/js/main.24915236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.717c46aa.css",
+    "static/js/main.24915236.js"
+  ]
+}
